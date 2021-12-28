@@ -1,0 +1,11 @@
+#card1{
+    background-image: -webkit-linear-gradient(to bottom, rgba(102, 126, 234, 0.5), rgba(118, 75, 162, 0.5)),url(images/disney-x-ginger.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 800px;
+}
+.carousel-inner{
+    height: max-content;
+    width: max-content;
+}
